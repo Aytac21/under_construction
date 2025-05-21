@@ -30,6 +30,8 @@ ALLOWED_HOSTS = ['*']
 CORS_ALLOWED_ORIGINS = [
     'http://65.108.93.160',
     "https://65.108.93.160",
+    'http://65.108.93.160:8080',
+    "https://65.108.93.160:8080',",
     'https://tomoil.de/',
     "http://tomoil.de/",
 ]
